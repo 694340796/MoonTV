@@ -90,11 +90,6 @@
       "name": "TV-1080资源",
       "detail": "https://api.1080zyku.com"
     },
-    "155api": {
-      "api": "https://155api.com/api.php/provide/vod",
-      "name": "AV-155资源",
-      "detail": "https://155api.com"
-    },
     "360zy": {
       "api": "https://360zy.com/api.php/provide/vod",
       "name": "TV-360资源",
