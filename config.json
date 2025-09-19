@@ -84,6 +84,11 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+    "360zy": {
+      "api": "https://360zy.com/api.php/provide/vod",
+      "name": "TV-360资源",
+      "detail": "https://360zy.com",
     }
   }
 }
